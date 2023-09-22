@@ -22,7 +22,7 @@
 <a href="https://www.hackerrank.com/shoryamathura22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shoryamathura22" height="30" width="40" /></a>
 </p>
 
-<br/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -51,7 +51,6 @@
     <img src="INSERT_POWERBI_ICON_URL_HERE" alt="PowerBI" width="40" height="40"/>
   </a>
 </p>
-<br/>
 
 ### Experience
 <hr/>

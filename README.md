@@ -55,9 +55,9 @@
 ### Experience
 <hr/>
 
-- Data Science and Business Analytics Intern at The Sparks Foundation.
+- Currently Working as Manufacturing Engineer at CIMCON Digital &nbsp; &nbsp; &nbsp; &nbsp; Mar 2022 - Present  
 
-- Data Science Intern at TwiLearn.
+- Data Science Intern at TwiLearn &nbsp; &nbsp; &nbsp; &nbsp;  May 2023 - Aug 2023    
 
 <hr/>
 

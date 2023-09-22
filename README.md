@@ -7,7 +7,10 @@
 <h3>🌟 Skilled in Python, SQL, MongoDB, Tableau, Power BI, ML and DL</h3>
 <br/>
 <br/>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shorya22&label=Profile%20views&color=0e75b6&style=flat" alt="Shorya22" /> </p>
+<br/>
+<p align="left"> <a href="https://www.linkedin.com/in/shoryamathura22" target="blank"><img src="https://img.shields.io/twitter/follow/shoryamathura22?logo=linked-in&style=for-the-badge" alt="shoryamathura22" /></a> </p>
+<br/
 
 - 🌱 I’m currently learning **Machine Learning**
 <br/>
@@ -56,3 +59,13 @@
 - Data Science and Business Analytics Intern at The Sparks Foundation.
 
 - Data Science Intern at TwiLearn.
+
+<hr/>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shorya22&show_icons=true&locale=en&layout=compact" alt="Shorya22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shorya22&" alt="Shorya22" /></p>
+
+
+

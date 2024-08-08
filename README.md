@@ -44,9 +44,6 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning," width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="INSERT_TABLEAU_ICON_URL_HERE" alt="Tableau and" width="40" height="40"/>
-  </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="INSERT_POWERBI_ICON_URL_HERE" alt="PowerBI" width="40" height="40"/>
   </a>

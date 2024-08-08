@@ -5,26 +5,21 @@
   <img src="https://komarev.com/ghpvc/?username=Shorya22&label=Profile%20views&color=0e75b6&style=flat" alt="Shorya22" />
 </p>
 
-<h3>🌟 Data Science/AI Enthusiast</h3>
-<h3>🌟 Exploring Opportunities in Data Science/AI/Prompt Engineering Field</h3>
-<h3>🌟 Skilled in</h3>
-
-- 🌱 I’m currently learning **Machine Learning**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌟 About Me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shoryamathura22" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/shorya22" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/shoryamathura22" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
+  Data Science/AI Enthusiast with a passion for leveraging technology to solve real-world problems. Currently exploring opportunities in the fields of Data Science, AI, and Prompt Engineering.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🌱 I’m currently learning</h3>
+<ul>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Natural Language Processing (NLP)</li>
+  <li>Generative AI (GenAI) / Large Language Models (LLMs)</li>
+  <li>Retrieval-Augmented Generation (RAG)</li>
+</ul>
+
+<h3 align="left">🛠️ Skills</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
@@ -47,19 +42,60 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*ZT5zsMj1BW9yERM7N05Lfg.png" alt="PowerBI" width="40" height="40" />
   </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="40" height="40" />
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/63446760?s=200&v=4" alt="OpenAI" width="40" height="40" />
+  </a>
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40" />
+  </a>
+  <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer">
+    <img src="https://python.langchain.com/en/latest/_static/logo.png" alt="Langchain" width="40" height="40" />
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40" />
+  </a>
+  <a href="https://chainlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://chainlit.io/logo.svg" alt="Chainlit" width="40" height="40" />
+  </a>
+</p>
+
+<h3 align="left">📈 GitHub Stats</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shorya22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shorya22&" alt="Streak Stats" />
+</p>
+
+<h3 align="left">🔗 Connect with Me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/shoryamathura22" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/shorya22" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/shoryamathura22" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
 
 ### Experience
-
-- Currently Working as Manufacturing Engineer at CIMCON Digital &nbsp; &nbsp; &nbsp; &nbsp; Mar 2022 - Present  
-- Data Science Intern at TwiLearn &nbsp; &nbsp; &nbsp; &nbsp;  May 2023 - Aug 2023    
-
+<hr/>
+<ul>
+  <li>Currently Working as Data Science/AI Engineer</li>
+  <li>Manufacturing Engineer at CIMCON Digital &nbsp; (Mar 2022 - Aug 2024)</li>
+  <li>Data Science Intern at TwiLearn &nbsp; (May 2023 - Aug 2023)</li>
+</ul>
 <hr/>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shorya22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shorya22&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shorya22&" alt="Streak Stats" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shorya22&theme=darkhub" alt="GitHub Trophies" />
 </p>

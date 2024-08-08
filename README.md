@@ -12,9 +12,6 @@
 
 <h3 align="left">🌱 I’m currently learning</h3>
 <ul>
-  <li>Machine Learning</li>
-  <li>Deep Learning</li>
-  <li>Natural Language Processing (NLP)</li>
   <li>Generative AI (GenAI) / Large Language Models (LLMs)</li>
   <li>Retrieval-Augmented Generation (RAG)</li>
 </ul>
@@ -62,14 +59,6 @@
   </a>
 </p>
 
-<h3 align="left">📈 GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shorya22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shorya22&" alt="Streak Stats" />
-</p>
-
 <h3 align="left">🔗 Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shoryamathura22" target="_blank">
@@ -91,6 +80,14 @@
   <li>Data Science Intern at TwiLearn &nbsp; (May 2023 - Aug 2023)</li>
 </ul>
 <hr/>
+
+<h3 align="left">📈 GitHub Stats</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shorya22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shorya22&" alt="Streak Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shorya22&show_icons=true&theme=radical" alt="GitHub Stats" />

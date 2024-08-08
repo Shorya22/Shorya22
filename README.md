@@ -49,13 +49,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40" />
   </a>
   <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://python.langchain.com/en/latest/_static/logo.png" alt="Langchain" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQHw7V-f4xdHf5CSL4Aea4_kP9q2p4D-jNg&s" alt="Langchain" width="40" height="40" />
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40" />
   </a>
-  <a href="https://chainlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://chainlit.io/logo.svg" alt="Chainlit" width="40" height="40" />
+  <a href="https://www.google.com/imgres?q=python%20package%20chainlit%20icon&imgurl=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fchainlit-43%2F_generated%2Ffavicon%2Fapple-touch-icon.png%3Fv%3D3&imgrefurl=https%3A%2F%2Fdocs.chainlit.io%2Fget-started%2Foverview&docid=w1l9QTwtsEMzdM&tbnid=r9eUnTWgniCRyM&vet=12ahUKEwjC2ef-9eSHAxX3TmwGHT9PCpMQM3oECG0QAA..i&w=180&h=180&hcb=2&ved=2ahUKEwjC2ef-9eSHAxX3TmwGHT9PCpMQM3oECG0QAA" target="_blank" rel="noreferrer">
+    <img src="" alt="Chainlit" width="40" height="40" />
   </a>
 </p>
 

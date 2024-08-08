@@ -54,9 +54,6 @@
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40" />
   </a>
-  <a href="https://avatars.githubusercontent.com/u/128686189?s=48&v=4" target="_blank" rel="noreferrer">
-    <img src="" alt="Chainlit" width="40" height="40" />
-  </a>
 </p>
 
 <h3 align="left">🔗 Connect with Me</h3>

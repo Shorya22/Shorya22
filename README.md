@@ -54,7 +54,7 @@
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40" />
   </a>
-  <a href="https://www.google.com/imgres?q=python%20package%20chainlit%20icon&imgurl=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fchainlit-43%2F_generated%2Ffavicon%2Fapple-touch-icon.png%3Fv%3D3&imgrefurl=https%3A%2F%2Fdocs.chainlit.io%2Fget-started%2Foverview&docid=w1l9QTwtsEMzdM&tbnid=r9eUnTWgniCRyM&vet=12ahUKEwjC2ef-9eSHAxX3TmwGHT9PCpMQM3oECG0QAA..i&w=180&h=180&hcb=2&ved=2ahUKEwjC2ef-9eSHAxX3TmwGHT9PCpMQM3oECG0QAA" target="_blank" rel="noreferrer">
+  <a href="https://avatars.githubusercontent.com/u/128686189?s=48&v=4" target="_blank" rel="noreferrer">
     <img src="" alt="Chainlit" width="40" height="40" />
   </a>
 </p>

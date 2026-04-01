@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-I'm a results-driven **AI Engineer & Data Scientist** with 1.5+ years of hands-on experience building production-grade systems in **Generative AI**, **Agentic AI**, and **Multi-Agent Systems** using **LangChain**, **LangGraph**, **FastAPI**, and **Docker**.
+I'm a results-driven **AI Engineer & Data Scientist** with 3.5+ years of hands-on experience building production-grade systems in **Generative AI**, **Agentic AI**, and **Multi-Agent Systems** using **LangChain**, **LangGraph**, **FastAPI**, and **Docker**.
 
-With a strong foundation in **LLMs**, **RAG**, and **LLM fine-tuning** (LLaMA, Mistral, Gemini, GPT), I design and deploy intelligent pipelines that are **modular, scalable, and cloud-ready**. My journey includes 5 years of experience in **IoT and Electronics**, giving me a full-stack perspective—from hardware to high-level AI automation.
+With a strong foundation in **LLMs**, **RAG**, and **LLM fine-tuning** (LLaMA, Mistral, Gemini, GPT), I design and deploy intelligent pipelines that are **modular, scalable, and cloud-ready**. My journey includes 3.5 years of experience in **IoT and Electronics**, giving me a full-stack perspective—from hardware to high-level AI automation.
 
 ---
 

@@ -387,7 +387,7 @@ Working on enterprise-grade:
 
 ---
 
-### 🧠 Senior AI Engineer — Mantra Smart Identity
+### 🧠 Senior AI Developer — Mantra Smart Identity
 **Oct 2025 – May 2026 | Ahmedabad, India**
 
 Worked on:

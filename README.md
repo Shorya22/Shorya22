@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shorya Sharma</h1>
 
 <h3 align="center">
-Senior AI Engineer | GenAI | Agentic AI | MCP | RAG | LLMOps
+Senior AI Developer | GenAI | Agentic AI | MCP | RAG | LLMOps
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@ Senior AI Engineer | GenAI | Agentic AI | MCP | RAG | LLMOps
 
 ## 🚀 About Me
 
-I'm a **Senior AI Engineer / GenAI Developer Specialist** focused on building and deploying **production-grade AI systems** across **Generative AI, Agentic AI, Multi-Agent Systems, RAG, MCP, LLMOps, and Responsible AI**.
+I'm a **Senior AI Developer / GenAI Developer Specialist** focused on building and deploying **production-grade AI systems** across **Generative AI, Agentic AI, Multi-Agent Systems, RAG, MCP, LLMOps, and Responsible AI**.
 
 I specialize in designing AI applications that move beyond simple LLM calls into **tool-using, context-aware, observable, evaluated, and production-ready systems**.
 
@@ -404,7 +404,7 @@ Worked on:
 
 ---
 
-### 🤖 Data Scientist / AI Engineer — L&T Technology Services
+### 🤖 Data Scientist / AI Developer — L&T Technology Services
 **Aug 2024 – Sep 2025 | Ahmedabad, India**
 
 Worked on:
